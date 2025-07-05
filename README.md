@@ -8,4 +8,4 @@ Tipo: Educación Pública
 
 Alcance: A nivel de todo el País 
 
-Ingegrantes: Wilmer García, Eduardo Cmpos, Melina Urrutia
+Ingegrantes: Wilmer García, Eduardo Campos, Melina Urrutia
