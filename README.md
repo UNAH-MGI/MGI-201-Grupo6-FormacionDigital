@@ -1,6 +1,6 @@
 Definición de Alcance 
 
-Tema: Proyecto Estrategia de Formación Docente en Competencias Digitales 
+Tema: Diseño de una Estrategia de Formación en Competencias Digitales para Docentes de Educación Primaria en Honduras 
 
 Enfoque: Maestros de Educación Primaria 
 
