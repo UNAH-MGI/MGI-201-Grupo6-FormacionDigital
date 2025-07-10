@@ -8,7 +8,7 @@ Tipo: Educación Pública
 
 Alcance: A nivel de todo el País 
 
-Ingegrantes: Wilmer García, Eduardo Campos, Melina Urrutia
+Integrantes: Wilmer García, Eduardo Campos, Melina Urrutia
 
 Enlace de documento proyecto análisis inicial:
 
