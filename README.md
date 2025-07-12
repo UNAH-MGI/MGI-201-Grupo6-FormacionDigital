@@ -9,9 +9,9 @@ Tipo: Educación Pública
 Alcance: A nivel de todo el País 
 
 Integrantes: 
-Wilmer García     MGI100907    wogarciam@unah.hn
-Eduardo Campos    MGI100903    eduardo.campos@unah.hn
-Melina Urrutia    MGI100923    melina.urrutia@unah.hn
+- Wilmer García     MGI100907    wogarciam@unah.hn
+- Eduardo Campos    MGI100903    eduardo.campos@unah.hn
+- Melina Urrutia    MGI100923    melina.urrutia@unah.hn
 
 Enlace de documento proyecto análisis inicial:
 
