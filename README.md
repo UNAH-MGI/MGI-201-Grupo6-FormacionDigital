@@ -20,7 +20,8 @@ https://unahhn-my.sharepoint.com/:w:/g/personal/wogarciam_unah_hn/Ec3fqXTG_61KmQ
 Enlace de proyecto final:
 https://unahhn-my.sharepoint.com/:w:/g/personal/wogarciam_unah_hn/ESADGGWDewNDjzh1kXCmIQsBHkNy0HOXDckICeOdJQkDeA?e=mapgWX
 
-Tenemos una estructura del proyecto de la siguiente manera>
+Tenemos una estructura del proyecto de la siguiente manera
+
 Pappers:
 - Dentro de esta carpetas hay subcarpetas con los nombres de cada integrante y en las mismas se encuentran los papers aportados por cada integrante del equipo
 - Existe una carpeta de varios donde hay otras investigaciones
